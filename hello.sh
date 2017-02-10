@@ -2,3 +2,5 @@
 
 #This is a new script to test git
 echo "Hello world!"
+
+echo "MORE! Changed"
